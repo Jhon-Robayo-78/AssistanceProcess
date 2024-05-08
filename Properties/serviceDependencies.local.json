@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "Registro de la aplicación: Login Utb, Inquilino: Directorio predeterminado (bobafeetrobayooutlook.onmicrosoft.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}

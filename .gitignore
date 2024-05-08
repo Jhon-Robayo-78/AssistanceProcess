@@ -1,0 +1,16 @@
+.vs/
+# Ignorar directorios de compilación
+bin/
+obj/
+out/
+# Ignorar archivos de configuración del usuario de Visual Studio
+*.csproj.user
+*.suo
+
+# Ignorar archivos de entorno
+.env
+
+# Archivos de configuración (si contienen información sensible)
+# Descomentar las siguientes líneas si es apropiado
+# appsettings.json
+appsettings.Development.json
